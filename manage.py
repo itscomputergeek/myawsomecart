@@ -2,6 +2,9 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
+# os module is used to import the module from opertaing systemn
+#manage.py is uded to run ther server
+
 
 
 def main():
